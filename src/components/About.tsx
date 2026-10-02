@@ -90,7 +90,7 @@ export default function About() {
           </div>
 
           <p className="font-sans text-base sm:text-lg text-brand-text-muted leading-relaxed">
-            I believe great design is more than aesthetics—it's about creating experiences that people remember. As a Graphic Designer specializing in branding, packaging, and campaign design, I craft visually refined and strategically driven solutions that help brands connect, communicate, and stand out.
+            I believe great design is  aesthetics—it's about creating experiences that people remember. As a Graphic Designer specializing in branding, packaging, and campaign design, I craft visually refined and strategically driven solutions that help brands connect, communicate, and stand out.
           </p>
 
           <p className="font-sans text-sm text-brand-text-muted/80 leading-relaxed">
