@@ -56,6 +56,9 @@ export const projectsData: Project[] = [
     year: '2024',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD0vn2zDAEMvbTKyOhm8r-lSfINHsByv5P23zGb5o27uWOH9UWVwJmX_MDTZHzmbURp74rjjVaoQrztmQkuOTUMKZsHRv-7nFPvRDz_dyzBgEBsqbuWt85vtavegcal5ir1Ti4YUsZliChD0ofp3oxVv9AY_xwZ0dnRg-Oxp8fDEQTZcKQEYvfeJWNh70jU-GwGFVnotMc6mmludtOmgXGQyrXZNd0RHRrdLW3DgyEZDtU3_fQJXr3n8UqxS79P7ckb4S22MeHY3oXg',
     description: 'A minimalist web design presentation showing a clean, modern homepage layout. The design utilizes extensive white space and a rigorous vertical rhythm targeting high-luxury lifestyle brands.',
+    Brief: [
+      'To build a strong and cohesive visual identity for Duratech that communicates trust, strength, durability, and reliable bonding across its branding and communication.'
+      ],
     challenges: [
       'Presenting brand identity mockups as fine art gallery displays within a functional, fast-loading digital web portal.',
       'Achieving organic user flow on highly conceptual, sparse visual stages.',
